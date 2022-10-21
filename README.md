@@ -23,8 +23,9 @@ What is a Activation function?
 
 * I got to use Sigmoid as the activation function cause it is easier to calculate partial differential with respect to sigmoid function because of the presence of an exponential.
 
-# Comparion of Black-Box and White Box results:
-I choose accuracy as the metric on which both the models will be evaluated.While there are various others metrics on the basis of which the efficiency fo the model can be found it , Accuracy is the most simple and easy to understand metric. Hence it was chosen
+# Results:
+
+Accuracy of : 
 
 Black Box : 73.16
 
